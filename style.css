@@ -9,6 +9,7 @@ body {
   text-align: center;
   margin-top: 10px;
   font-size: 100px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 
@@ -33,7 +34,7 @@ body {
   display: grid;
   width: 450px;
   height: 450px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   grid-template-columns: repeat(16, 1fr);
   grid-template-rows: repeat(16, 1fr);
   background-color: rgb(0, 0, 0);
